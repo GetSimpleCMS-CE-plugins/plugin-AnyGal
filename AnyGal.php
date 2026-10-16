@@ -22,7 +22,7 @@ register_plugin(
 	i18n_r(ANYGAL_SLUG . '/lang_Menu_Title'),
 	'1.0',
 	'risingisland',
-	'https://getsimple-ce.ovh/plugins/',
+	'https://getsimple-ce.ovh/ce-plugins/',
 	i18n_r(ANYGAL_SLUG . '/lang_Description'),
 	'block',
 	'anygal_admin'
